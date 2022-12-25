@@ -21,6 +21,9 @@ header h1{
     text-transform: capitalize;
     margin-top: 30px;
 }
+header h1:hover{
+    color: red;
+}
 .menu{
     display: flex;
     justify-content: space-between;
@@ -39,4 +42,7 @@ header h1{
     line-height: 40px;
     margin-top: 30px;
   
+}
+.menu1 a:hover{
+    color: red;
 }
